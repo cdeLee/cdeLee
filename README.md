@@ -19,13 +19,25 @@
   * Data Visualization and Working with Data Sources
   * Creating EDAs
   * Machine Learning Techniques/Algorithms
+
+- My Education:
+  * Bsc (Mathematics and Statistics) @ University of Limpopo
+  * PGCE(Mathematics and Physical Sciences) @ University of Limpopo
+  * Bcom Hons in financial modelling(Currently Studying) @ University of South Africa 
+  * Data Sciences @ Hyperion Dev
   
+- My Skills:
+  * Programming
+  * Problem Solving
+  * Time Management
+  * Communication Skills
 - 👯 I’m looking to collaborate on utilizing Recurrent Neural Networks to some some real world problems
 
 - 💬 Ask me about: Mathematics, Statistics and/or Data Sciences
 
 - 📫 How to reach me: 
-## 064 909 6011 | dlivhalani@gmail.com
+## 064 909 6011 | dlivhalani@gmail.com | LinkedIn : https://www.linkedin.com/in/livhalani-dau-6801a5119
+
 <!--  😄 Pronouns: ...
 - ⚡ Fun fact: 
 ->
