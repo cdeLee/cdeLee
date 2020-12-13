@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on completing my Hyperion Dev Course for Data Sciences
 
-- 🌱 I’m currently learning Data Sciences at Hyperion Dev
+- 🌱 I’m currently learning Data Sciences at Hyperion Dev. Some projects can be found in this link: https://github.com/cdeLee/Capstone-Projects
 
 - The focus is on:
   * Introduction to Python Programming
