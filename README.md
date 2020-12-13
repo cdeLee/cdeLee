@@ -41,8 +41,6 @@
 - 💬 Ask me about: Mathematics, Statistics and/or Data Sciences
 
 - 📫 How to reach me: 
-## 064 909 6011 | dlivhalani@gmail.com | LinkedIn : https://www.linkedin.com/in/livhalani-dau-6801a5119
+## 064 909 6011 | dlivhalani@gmail.com | LinkedIn : livhalani-dau-6801a5119
 
-<!--  😄 Pronouns: ...
-- ⚡ Fun fact: 
-->
+
