@@ -3,7 +3,7 @@
 
 ### I am a passionate developer who enjoys not only learning but helping others. Did I mention that I am a teacher by profession too? :blush: Well I am and we are going to teach each other a lot here.
 
-### let me not get out of the way, I am a hard worker, able to work independently as well as working in a team. You can rely on me when it comes to accomplishing any task. ⚡ Fun fact: they used to call me Madam Excecutioner at varsity, well not of people don't get it twisted :smiley: , I am someone who can be trusted, I am an enemy of lies.
+### let me not get out of the way, I am a hard worker, able to work independently as well as working in a team. You can rely on me when it comes to accomplishing any task. ⚡ Fun fact: they used to call me Madam Excecutioner at varsity, well not of people don't get it twisted :smiley: , I am someone who can be trusted and an enemy of lies.
 
 ## Below outlines some  of the important things you will find in this repository
 
