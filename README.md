@@ -1,5 +1,6 @@
 # Hi there,  It's Dau Livhalani Here 👋
 
+![Test Image 7](https://avatars2.githubusercontent.com/u/74109231?s=460&u=363bd2ae1b91787dca142e323bb527d7e28ea9b8&v=4)
 
 ### I am a passionate developer who enjoys not only learning but helping others. Did I mention that I am a teacher by profession too? :blush: Well I am and we are going to teach each other a lot here.
 
