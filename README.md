@@ -33,6 +33,10 @@
   * Communication Skills
 - 👯 I’m looking to collaborate on utilizing Recurrent Neural Networks to some some real world problems
 
+- Work Experience:
+  * Teacher @ Kgati ya moshate secondary school | Duration : 3-current | Year : 2017
+  * Teacher @ Waterberg High School | Duration : 1 yr - current | Year 2016
+  * Executing duties in internet cafe @ Kondi computer training | Duration : 1 Yr | Year : 2014 
 - 💬 Ask me about: Mathematics, Statistics and/or Data Sciences
 
 - 📫 How to reach me: 
