@@ -5,6 +5,8 @@
 
 ### let me not get out of the way, I am a hard worker, able to work independently as well as working in a team. You can rely on me when it comes to accomplishing any task. ⚡ Fun fact: they used to call me Madam Excecutioner at varsity, well not of people don't get it twisted :smiley: , I am someone who can be trusted and an enemy of lies.
 
+### Most of the time I am teaching however on my free time apart from coding I write poems here and there. The lack of technological advancement in South Africa drives me to get my hands busy on project that can either improve people's lives or teach them something new.
+
 ## Below outlines some  of the important things you will find in this repository
 
 
