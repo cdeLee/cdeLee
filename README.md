@@ -8,17 +8,20 @@
 ## Below outlines some  of the important things you will find in this repository
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on completing my Hyperion Dev Course for Data Sciences
+
 - 🌱 I’m currently learning Data Sciences at Hyperion Dev
+
 - The focus is on:
   * Introduction to Python Programming
   * Data Visualization and Working with Data Sources
   * Creating EDAs
   * Machine Learning Techniques/Algorithms
   
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on utilizing Recurrent Neural Networks to some some real world problems
+
 - 💬 Ask me about: Mathematics, Statistics and/or Data Sciences
+
 - 📫 How to reach me: 
 ## 064 909 6011 | dlivhalani@gmail.com
 <!--  😄 Pronouns: ...
